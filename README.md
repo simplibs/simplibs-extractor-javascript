@@ -215,7 +215,7 @@ option and none raises on a source.
 | `remove_js_requires` | Removes the CommonJS `const x = require("m")` declarations (`text`).                                                      |
 | `strip_js_exports`   | Removes `export { … }`, `export * from "m"` and `export default Name;`, and the `export` keyword in front of a named declaration (`text`). |
 
-➡️ [README_EXTRACTOR_JAVASCRIPT_LOGIC](https://github.com/simplibs/simplibs-extractor-javascript/blob/main/docs/logic/README_EXTRACTOR_JAVASCRIPT_LOGIC.md)
+➡️ [README_EXTRACTOR_JAVASCRIPT_LOGIC](https://github.com/simplibs/simplibs-extractor-javascript/blob/main/docs/README_EXTRACTOR_JAVASCRIPT_LOGIC.md)
 
 ---
 
