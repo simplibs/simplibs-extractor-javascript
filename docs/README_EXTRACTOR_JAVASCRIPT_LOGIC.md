@@ -347,7 +347,7 @@ the braces until the one that closes the `${`.
 * [`strip_js_exports`](#strip_js_exports)
 * [Errors of this package](#errors-of-this-package)
 
-[⬅️ Back to main README](../../README.md#-logic--the-steps-that-read-javascript-and-typescript)
+[⬅️ Back to main README](../README.md#-logic--the-steps-that-read-javascript-and-typescript)
 
 ---
 
